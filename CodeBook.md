@@ -13,7 +13,9 @@ train/X_train.txt with test/X_test.txt -- the result is a 10299 x 561 data frame
 The result is a 10299 x 66 data frame, because only 66 out of 561 attributes are measurements on the mean and standard deviation. 
 
 3. Reads activity_labels.txt and applies descriptive activity names to name the activities in the data set:
+   
    There are 6 citivity names：
+   
    walking
 
    walkingupstairs

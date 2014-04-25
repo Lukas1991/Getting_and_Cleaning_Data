@@ -1,6 +1,6 @@
 #Reading Data into R:
 subjt1 <- read.table("test/subject_test.txt")
-subjt2<- read.table("/train/subject_train.txt")
+subjt2<- read.table("train/subject_train.txt")
 S <- rbind(subjt1,subjt2)
 
 X1<- read.table("test/X_test.txt")

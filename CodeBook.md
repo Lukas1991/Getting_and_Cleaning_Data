@@ -14,7 +14,7 @@ The result is a 10299 x 66 data frame, because only 66 out of 561 attributes are
 
 3. Reads activity_labels.txt and applies descriptive activity names to name the activities in the data set:
    
-   There are 6 citivity names：
+   There are 6 activity names：
    
    walking
 
